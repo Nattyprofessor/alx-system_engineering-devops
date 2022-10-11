@@ -1,0 +1,5 @@
+ther -t nor -b is in effect, characters in a field are
+       counted  from  the beginning of the preceding whitespace.  OPTS is
+       one or more single-letter ordering  options  [bdfgiMhnRrV],  which
+       override  global  ordering  options  for  that  key.  If no key is
+       given, use the entire line as the key.
